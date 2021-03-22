@@ -25,3 +25,16 @@ body{
         color:cyan;
     }
 }
+
+/* 2nd question */
+@media (max-width:1000px) and (min-width: 500px){
+    body{
+        color:green;
+    }
+}
+/* 3rd question */
+@media (min-width:1000px){
+    body{
+        color:blue;
+    }
+}
